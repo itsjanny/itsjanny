@@ -102,7 +102,7 @@
 <div align="center">
 
 ```bash
-janmeet@github:~$ whoami
+itsjanny@github:~$ whoami
 
 Name        : Janmeet Singh
 Role        : Robotics & AI Engineer
