@@ -164,16 +164,23 @@ Status: Ready to build something amazing 🚀
 </p>
 
 ---
-## 📈 GitHub Analytics
+## <img src="https://skillicons.dev/icons?i=github" width="28"/> GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjanny&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjanny&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="./assets/github-analytics.png" width="100%" alt="GitHub Analytics Header"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsjanny&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsjanny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=00E5FF&text_color=F8FAFC&ring_color=7C3AED"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjanny&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=F8FAFC"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=itsjanny&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00E5FF&currStreakLabel=58A6FF"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsjanny&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=00E5FF&point=7C3AED"/>
 </p>
 
 ---
