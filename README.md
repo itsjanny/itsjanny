@@ -133,7 +133,6 @@ Loading skills...
 
 Status: Ready to build something amazing 🚀
 ````
-
 ## <img src="https://skillicons.dev/icons?i=react" width="28"/> Tech Stack
 
 <p align="center">
