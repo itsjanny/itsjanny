@@ -15,7 +15,7 @@
 
 # 👋 Hello, I'm **Janmeet Singh**
 
-### Robotics & AI Engineer • Full Stack Developer • Machine Learning Enthusiast
+### Robotics & AI Engineer • Data Science • Machine Learning Enthusiast • Data Analysis
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Building+Intelligent+Systems;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New"/>
 
