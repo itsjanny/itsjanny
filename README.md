@@ -100,16 +100,97 @@
 <h2 align="center">💻 About Me</h2>
 
 <div align="center">
+# 👋 Hi, I'm Janmeet Singh
 
-```bash
-itsjanny@github:~$ whoami
+<!-- Hero Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="Banner">
+</p>
 
-Name        : Janmeet Singh
-Role        : Robotics & AI Engineer
-Location    : India 🇮🇳
-Education   : B.Tech Robotics & Artificial Intelligence
-Status      : Building • Learning • Contributing
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?..." />
+</p>
+
+---
+
+## 💻 About Me
+````markdown
+```python
+from dataclasses import dataclass, field
+from typing import List
+
+
+@dataclass
+class JanmeetSingh:
+    """Robotics & AI Engineer"""
+
+    name: str = "Janmeet Singh"
+    title: str = "Robotics & AI Engineer"
+    location: str = "India 🇮🇳"
+
+    education: str = (
+        "B.Tech in Robotics & Artificial Intelligence"
+    )
+
+    portfolio: str = "https://itsjanny.vercel.app"
+    github: str = "https://github.com/itsjanny"
+    linkedin: str = "https://linkedin.com/in/janmeet"
+
+    languages: List[str] = field(default_factory=lambda: [
+        "Python",
+        "Java",
+        "C++",
+    ])
+
+    frameworks: List[str] = field(default_factory=lambda: [
+        "Express",
+        "Flask",
+        "FastAPI",
+    ])
+
+    ai_stack: List[str] = field(default_factory=lambda: [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-Learn",
+        "OpenCV",
+        "Pandas",
+        "NumPy",
+    ])
+
+    currently_learning: List[str] = field(default_factory=lambda: [
+        "Generative AI",
+        "Large Language Models",
+        "RAG",
+        "LangChain",
+        "AWS",
+        "Docker",
+    ])
+
+    interests: List[str] = field(default_factory=lambda: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Robotics",
+        "Open Source",
+        "Full Stack Development",
+    ])
+
+    motto: str = (
+        "Build intelligent software that creates real-world impact."
+    )
+
+
+me = JanmeetSingh()
+
+print(me)
 ```
+````
+
+## 🚀 Tech Stack
+
+<!-- We'll add this in Part 4 -->
+
 
 </div>
 
