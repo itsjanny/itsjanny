@@ -111,85 +111,52 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?..." />
 </p>
+</div>
+
+<br>
 
 ---
 
 ## 💻 About Me
 ````markdown
-```python
-from dataclasses import dataclass, field
-from typing import List
+>>> python about.py
 
+👋 Hi, I'm Janmeet Singh
 
-@dataclass
-class JanmeetSingh:
-    """Robotics & AI Engineer"""
+✓ Robotics & AI Engineer
+✓ Full Stack Developer
+✓ Machine Learning Enthusiast
+✓ Open Source Contributor
 
-    name: str = "Janmeet Singh"
-    title: str = "Robotics & AI Engineer"
-    location: str = "India 🇮🇳"
+Loading skills...
+████████████████████ 100%
 
-    education: str = (
-        "B.Tech in Robotics & Artificial Intelligence"
-    )
-
-    portfolio: str = "https://itsjanny.vercel.app"
-    github: str = "https://github.com/itsjanny"
-    linkedin: str = "https://linkedin.com/in/janmeet"
-
-    languages: List[str] = field(default_factory=lambda: [
-        "Python",
-        "Java",
-        "C++",
-    ])
-
-    frameworks: List[str] = field(default_factory=lambda: [
-        "Express",
-        "Flask",
-        "FastAPI",
-    ])
-
-    ai_stack: List[str] = field(default_factory=lambda: [
-        "TensorFlow",
-        "PyTorch",
-        "Scikit-Learn",
-        "OpenCV",
-        "Pandas",
-        "NumPy",
-    ])
-
-    currently_learning: List[str] = field(default_factory=lambda: [
-        "Generative AI",
-        "Large Language Models",
-        "RAG",
-        "LangChain",
-        "AWS",
-        "Docker",
-    ])
-
-    interests: List[str] = field(default_factory=lambda: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Robotics",
-        "Open Source",
-        "Full Stack Development",
-    ])
-
-    motto: str = (
-        "Build intelligent software that creates real-world impact."
-    )
-
-
-me = JanmeetSingh()
-
-print(me)
-```
+Status: Ready to build something amazing 🚀
 ````
 
 ## 🚀 Tech Stack
 
-<!-- We'll add this in Part 4 -->
+## <img src="https://skillicons.dev/icons?i=react" width="28"/> Tech Stack
+
+<p align="center">
+  <img
+    src="./assets/tech-stack.png"
+    alt="Janmeet Singh Tech Stack"
+    width="100%"
+  />
+</p>
+
+<div align="center">
+
+*Technologies and tools I use to build modern, scalable, and intelligent software.*
+
+</div>
+
+---
+
+---
+
+
 
 
 </div>
@@ -241,7 +208,6 @@ Education:
 Current Focus:
   - Artificial Intelligence
   - Machine Learning
-  - Full Stack Development
   - Data Science
   - Open Source
 
