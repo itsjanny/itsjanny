@@ -157,7 +157,26 @@ Status: Ready to build something amazing 🚀
 
 
 </div>
+## 📊 Skills Dashboard
 
+<p align="center">
+  <img src="./assets/skills-dashboard.png" width="100%" alt="Skills Dashboard"/>
+</p>
+
+---
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjanny&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjanny&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itsjanny&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 <br>
 
 <table align="center">
