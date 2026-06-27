@@ -93,3 +93,111 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 </div>
+<!-- ========================================================= -->
+<!--                     ABOUT ME                              -->
+<!-- ========================================================= -->
+
+<h2 align="center">💻 About Me</h2>
+
+<div align="center">
+
+```bash
+janmeet@github:~$ whoami
+
+Name        : Janmeet Singh
+Role        : Robotics & AI Engineer
+Location    : India 🇮🇳
+Education   : B.Tech Robotics & Artificial Intelligence
+Status      : Building • Learning • Contributing
+```
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚀 Currently
+
+- 🤖 Building AI-powered applications
+- 🌐 Developing modern Full Stack projects
+- 🧠 Solving Data Structures & Algorithms
+- 📚 Exploring LLMs, RAG & Generative AI
+- ☁️ Learning Cloud & DevOps
+- 💙 Contributing to Open Source
+
+</td>
+
+<td width="50%">
+
+### 🎯 2026 Goals
+
+- ⭐ Solve **500+ LeetCode problems**
+- 🚀 Build production-ready AI products
+- 🌍 Make meaningful Open Source contributions
+- 📖 Master System Design fundamentals
+- 💼 Secure an AI / Software Engineering role
+- ⚡ Keep learning every single day
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 A Little More About Me
+
+```yaml
+Name: Janmeet Singh
+
+Located In: India
+
+Education:
+  - B.Tech in Robotics & Artificial Intelligence
+
+Current Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Data Science
+  - Open Source
+
+Interests:
+  - Robotics
+  - Generative AI
+  - Cloud Computing
+  - Computer Vision
+  - Software Engineering
+
+Currently Learning:
+  - LangChain
+  - RAG
+  - Vector Databases
+  - Docker
+  - AWS
+
+Open To:
+  - Software Engineering Internships
+  - AI / ML Internships
+  - Open Source Collaboration
+```
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+> **"Code is more than instructions—it's a way to turn ideas into impact."**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+</div>
