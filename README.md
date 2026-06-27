@@ -30,3 +30,66 @@
 </div>
 
 <br>
+<!-- ========================================================= -->
+<!--                 SOCIAL DASHBOARD                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/janmeet/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://itsjanny.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:janmeetsingh527@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/itsjanny">
+<img src="https://img.shields.io/github/followers/itsjanny?style=for-the-badge&logo=github&label=Followers&color=181717"/>
+</a>
+
+<a href="https://github.com/itsjanny">
+<img src="https://komarev.com/ghpvc/?username=itsjanny&style=for-the-badge&color=58A6FF"/>
+</a>
+
+<a href="https://leetcode.com/u/itsjanny/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+| Portfolio | LinkedIn | GitHub | Email | LeetCode |
+|:----------:|:--------:|:------:|:------:|:--------:|
+| 🌍 **Live Website** | 💼 **Professional Network** | 💻 **Open Source** | 📬 **Let's Connect** | 🧩 **Problem Solving** |
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Quick Facts
+
+| 🚀 Focus | 💡 Interests | 🌱 Currently Learning | 🎯 Goal |
+|-----------|--------------|----------------------|----------|
+| AI • ML • Robotics | Full Stack Development | LLMs • RAG • Cloud | Build impactful AI products |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+</div>
