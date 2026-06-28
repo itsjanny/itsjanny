@@ -146,7 +146,8 @@ Status: Ready to build something amazing 🚀
 *Technologies and tools I use to build modern, scalable, and intelligent software.*
 
 </div>
----
+
+
 
 
 ---
@@ -157,7 +158,7 @@ Status: Ready to build something amazing 🚀
 </p>
 
 ---
-## <img src="https://skillicons.dev/icons?i=github" width="28"/> GitHub Analytics
+
 
 <p align="center">
   <img src="./assets/github-analytics.png" width="100%" alt="GitHub Analytics Header"/>
