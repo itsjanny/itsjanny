@@ -146,14 +146,8 @@ Status: Ready to build something amazing 🚀
 *Technologies and tools I use to build modern, scalable, and intelligent software.*
 
 </div>
-
 ---
-
 ---
-
-
-
-
 </div>
 
 <p align="center">
